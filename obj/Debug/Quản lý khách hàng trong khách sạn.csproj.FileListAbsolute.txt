@@ -1,0 +1,10 @@
+C:\C#\Quản lý khách hàng trong khách sạn\bin\Debug\Quản lý khách hàng trong khách sạn.exe.config
+C:\C#\Quản lý khách hàng trong khách sạn\bin\Debug\Quản lý khách hàng trong khách sạn.exe
+C:\C#\Quản lý khách hàng trong khách sạn\bin\Debug\Quản lý khách hàng trong khách sạn.pdb
+C:\C#\Quản lý khách hàng trong khách sạn\obj\Debug\Quản lý khách hàng trong khách sạn.csproj.AssemblyReference.cache
+C:\C#\Quản lý khách hàng trong khách sạn\obj\Debug\Quản_lý_khách_hàng_trong_khách_sạn.Form1.resources
+C:\C#\Quản lý khách hàng trong khách sạn\obj\Debug\Quản_lý_khách_hàng_trong_khách_sạn.Properties.Resources.resources
+C:\C#\Quản lý khách hàng trong khách sạn\obj\Debug\Quản lý khách hàng trong khách sạn.csproj.GenerateResource.cache
+C:\C#\Quản lý khách hàng trong khách sạn\obj\Debug\Quản lý khách hàng trong khách sạn.csproj.CoreCompileInputs.cache
+C:\C#\Quản lý khách hàng trong khách sạn\obj\Debug\Quản lý khách hàng trong khách sạn.exe
+C:\C#\Quản lý khách hàng trong khách sạn\obj\Debug\Quản lý khách hàng trong khách sạn.pdb
